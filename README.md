@@ -1,10 +1,26 @@
 # devanagari-qwerty
 
-This is a port of the Devanagari QWERTY keyboard layout from macOS to Windows. If you have a regular QWERTY keyboard, this layout is much more convenient for typing Devanagari than the standard INSCRIPT layout.
+This is a port of the Devanagari QWERTY keyboard layout from macOS to Windows. If you have a regular QWERTY keyboard, this layout is much more convenient for typing Devanagari than the standard INSCRIPT layout. It maps letters from the Latin alphabet to their phonetic equivalents in Devanagari, which saves you the trouble of memorizing the INSCRIPT keyboard layout or purchasing a new keyboard.
 
-I primarily use this layout for typing Hindi, but it should work equally well for Sanskrit, Marathi, Nepali, and other Devanagari-based languages.
+I use this layout for typing Hindi, but it should work equally well for Sanskrit, Marathi, Nepali, and other Devanagari-based languages. If you find that it's missing any letters, you might want to customize it. See the section on customizing the layout below.
 
-If you find that the layout is missing any letters, you might want to customize it. See the section on customizing the layout below.
+## What Does it Look Like?
+
+When no modifier keys are pressed:
+
+![Devanagari QWERTY layout without any modifiers keys pressed](./screenshots/normal.png "Normal")
+
+With `Shift` pressed:
+
+![Devanagari QWERTY layout with the Shift key pressed](./screenshots/shift.png "With Shift pressed")
+
+With `AltGr` (`Opt` on macOS) pressed:
+
+![Devanagari QWERTY layout with the AltGr key pressed](./screenshots/altgr.png "With AltGr pressed")
+
+With `Shift + AltGr` (`Shift + Opt` on macOS) pressed:
+
+![Devanagari QWERTY layout with the Shift and AltGr keys pressed](./screenshots/shift_plus_altgr.png "With Shift + AltGr pressed")
 
 ## Installing
 
